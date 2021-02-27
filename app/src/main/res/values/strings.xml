@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lembrete de agua</string>
+    <string name="titulo">Calculo de água por peso</string>
+    <string name="descricao">Por favor, insira seu peso</string>
+    <string name="botaoCadastrar">Calcular</string>
+    <string name="voce_sabia">VOCÊ SABIA?</string>
+    <string name="resultado">Pelo seu peso, você precisa beber</string>
+</resources>
